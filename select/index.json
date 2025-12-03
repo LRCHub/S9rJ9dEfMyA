@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "炎と森のカーニバル",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-03T08:05:26.928690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "炎と森のカーニバル (Honoo to Mori no Carnival)",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/01_炎と森のカーニバル_(Honoo_to_Mori_no_Carnival)_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "炎と森のカーニバル",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/02_炎と森のカーニバル_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "炎と森のカーニバル - Honootomorinocarnival",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_炎と森のカーニバル_-_Honootomorinocarnival_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "炎と森のカーニバル",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_炎と森のカーニバル_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
